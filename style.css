@@ -1,0 +1,36 @@
+body {
+    background-color: #ffc8dd ;
+}
+h3 {
+    color: white;
+}
+h3:hover {
+    color: #343a40;
+}
+
+p {
+    color: white;
+}
+p:hover {
+    color: #343a40;
+}
+h4 {
+    text-align: end;
+}
+.a img {
+    width: 190px;
+    height: 180px;
+    border: 30px solid white;
+    margin-left: 70px;
+    border-radius: 50px;
+}
+.b img {
+    width: 190px;
+    height: 180px;
+    border: 30px solid white;
+    margin-left: 70px;
+    border-radius: 50px;
+}
+a:hover {
+    color: #954261;
+}
